@@ -200,7 +200,9 @@ main section {
     cursor: pointer;
 }
 
-
+.resultados button:hover {
+    background-color: var(--green-hover);
+}
 
 
 input::-webkit-inner-spin-button,
