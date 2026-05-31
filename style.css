@@ -215,7 +215,9 @@ input::-webkit-outer-spin-button {
         flex-direction: column;
     }
 
-   
+    .gorjeta div {
+        grid-template-columns: 1fr 1fr;
+    }
 
   
 }
