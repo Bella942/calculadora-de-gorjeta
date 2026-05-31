@@ -219,7 +219,5 @@ input::-webkit-outer-spin-button {
         grid-template-columns: 1fr 1fr;
     }
 
-  .resultados div > strong {
-        font-size: 2rem;
-    }
+
 }
