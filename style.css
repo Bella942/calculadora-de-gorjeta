@@ -187,18 +187,7 @@ main section {
     font-size: 3rem;
 }
 
-.resultados button {
-    width: 100%;
-    border: none;
-    border-radius: 0.4rem;
-    background-color: var(--light-green);
-    color: var(--green-800);
-    padding: 0.8rem;
-    font-size: 1.2rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    cursor: pointer;
-}
+
 
 .resultados button:hover {
     background-color: var(--green-hover);
